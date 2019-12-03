@@ -1,0 +1,15 @@
+
+# QML cache files
+*.qmlc
+*.jsc
+
+# Python cache files
+*.pyc
+*.pyo
+__pycache__
+
+# OS specific files
+.DS_Store
+
+# IDE files
+.vscode/
